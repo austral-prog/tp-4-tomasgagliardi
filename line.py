@@ -1,4 +1,5 @@
 def line():
+    import math
     A = float(imput(Ingrese el coeficiente A:))
     B = float(imput(Ingrese el coeficiente B:))
     X1 = float(imput(Ingrese el coeficiente X1:))
